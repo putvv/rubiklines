@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:buttonStyle">@style/mThemeButton</item>
+    </style>
+    <style name="mThemeButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/mbutton</item>
+    </style>
+
+</resources>

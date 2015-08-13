@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rubik\'s Lines</string>
+
+    <string name="action_exit">Exit</string>
+    <string name="newGame">New game</string>
+    <string name="continueGame">Continue game</string>
+    <string name="level">Level</string>
+    <string name="high_score">New high score</string>
+    <string name="action_new_game">New game</string>
+    <string name="action_rate">Rate</string>
+    <string name="sound_on">Sound on</string>
+    <string name="sound_off">Sound off</string>
+</resources>
